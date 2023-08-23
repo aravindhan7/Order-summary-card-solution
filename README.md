@@ -18,8 +18,8 @@ This is a solution to the [# Frontend Mentor - Order summary card solution
 
 ### Links
 
-- Solution URL: [https://github.com/aravindhan7/Article-preview-component-solution]
-- Live Site URL: [https://aravindhan7.github.io/Article-preview-component-solution/]
+- Solution URL: [https://github.com/aravindhan7/Order-summary-card-solution]
+- Live Site URL: [https://aravindhan7.github.io/Article-preview-component-solution]
 
 
 ## Author
